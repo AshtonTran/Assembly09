@@ -1,0 +1,8 @@
+Warning[203] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 72 : Found opcode in column 1. (nop)
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 94 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 95 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 96 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 100 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 107 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 118 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 09\XTMR1.ASM 143 : Register in operand not in bank 0.  Ensure that bank bits are correct.
